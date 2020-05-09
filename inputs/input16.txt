@@ -1,0 +1,8 @@
+2
+Eats(Jo,Fish)
+Eats(W, Jo)
+4
+Cat(x) => Likes(x,Fish)
+Cat(y) & Likes(y,z) => Eats(y,z)
+Cat(Jo)
+Cat(W)

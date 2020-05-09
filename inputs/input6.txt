@@ -1,0 +1,5 @@
+1
+~Bird(Tweety)
+2
+Feathers(x) => Bird(x)
+Feathers(Tweety)
